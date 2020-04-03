@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+<head>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css"
+
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+<div class="jumbotron">
+  <h1>Age Calculator</h1>
+  <p>Finding it difficult to calculate your exact day of birth.
+    Use this amazing Age Calculator app to calculate
+your exact day of birth using your date of birth</p>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<form class="form-horizontal">
+<form class="form-group">
+  <form>
+  <label for="dd">Day of the month:</label><br>
+  <input type="text" id="dd" name="dd" placeholder="1-30/31"><br>
+  <label for="mm">Month of the year:</label><br>
+  <input type="text" id="mm" name="mm" placeholder="1-12"><br>
+  <label for="yy">Year of birth:</label><br>
+  <input type="text" id="yy" name="yy" placeholder="E.g 75,99"><br>
+  <label for="cc">Century of birth:</label><br>
+  <input type="text" id="cc" name="cc" placeholder="E.g 17,18,19,20">
+
+
+</div>
+</div>
+<button onclick="sweetalertclick()" type="button" class="blue-button">submit</button>
+  </div>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <script>
+  function sweetalertclick() {
+  swal(
+    'Good job!',
+    'Your akan name is kwasi',
+    'success'
+  )
+};
+  </script>
+  <script src="js/scripts.js"</script>
+</html>

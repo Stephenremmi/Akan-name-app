@@ -2,7 +2,8 @@
 This is an app that assign the user an akan name
 
 ### Description
-- An Akan names are derived from Ghananian culture
+- Akan names are derived from Ghananian culture.
+- It is basically a convention way of naming children according to their date of birth and also gender has a part to play in the naming
 - This a beta version.
 
 

@@ -2,7 +2,7 @@
 An app that assigns you an Akan name according to date of birth
 
 ### Description
-
+- This a beta version.
 
 
 ### How to test it

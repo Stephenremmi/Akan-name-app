@@ -1,6 +1,7 @@
 # Akan-name-app
 An app that assigns you an Akan name according to date of birth
-**How to test it*
+### How to test it
+
 
 
 

@@ -1,5 +1,5 @@
 # Akan-name-app
-This is an app that assign the user an akan name
+This web app takes user's birthday and calculates the day of the week they were born.
 
 ### Description
 - Akan names are derived from Ghananian culture.

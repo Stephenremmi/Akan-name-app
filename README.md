@@ -13,9 +13,8 @@ An app that assigns you an Akan name according to date of birth
 - HTML5
 - CSS3
 - Javascript
-- 
 ### Tools used
-- sweet alert
+- sweet Alert
 
 ### Github pages
 

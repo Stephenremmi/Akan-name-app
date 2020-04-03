@@ -17,6 +17,7 @@ This is a web app that takes user's birthday and calculates the day of the week 
 - Javascript
 ### Tools used
 - sweet Alert
+- W3 schools,Edureka channel(youtube),google.(Research tools)
 
 ### Github pages
 (url) (https://stephenremmi.github.io/Akan-name-app/)

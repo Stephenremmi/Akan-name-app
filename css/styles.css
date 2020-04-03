@@ -1,10 +1,12 @@
-h2{
+h1{
   text-align: center;
-  color: white;
+  color:mintcream;
   position: relative;top: 170px;
 }
+
 .jumbotron{
   background-image: url(../image/name.jpg);
+  background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
   height: 500px;  
@@ -12,5 +14,21 @@ h2{
 
 body{
   font-family: Verdana, sans-serif;
-  background-color: grey;
+  background-color:mintcream;
+}
+
+.cardSet1{
+  background-color: lightcyan;
+}
+
+.cardSet2{
+  background-color: honeydew;
+}
+
+.cardSet3{
+  background-color: azure;
+}
+
+.cardSet4{
+  background-color: antiquewhite;
 }

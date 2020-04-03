@@ -17,6 +17,7 @@ An app that assigns you an Akan name according to date of birth
 - sweet Alert
 
 ### Github pages
+(url) (https://stephenremmi.github.io/Akan-name-app/)
 
 **Author**
 - Stephen Remmi

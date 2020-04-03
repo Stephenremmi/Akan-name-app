@@ -5,9 +5,12 @@ An app that assigns you an Akan name according to date of birth
 
 
 
-**Tools used*
+### Tools used
+- HTML5
+- CSS3
+- Javascript
 
-**Github pages**
+### Github pages
 
 **Author**
-Stephen Remmi
+- Stephen Remmi

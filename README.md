@@ -2,6 +2,7 @@
 This is an app that assign the user an akan name
 
 ### Description
+- An Akan names are derived from Ghananian culture
 - This a beta version.
 
 

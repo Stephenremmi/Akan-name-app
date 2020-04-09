@@ -1,26 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <title>Akan name</title>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@582&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@582&family=Sonsie+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@582&family=Sonsie+One&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Josefin+Sans:ital,wght@1,300&family=Oswald:wght@582&family=Sonsie+One&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <title>AKAN WEB APP</title>
   </head>
   <body>
-    <div class=jumbotron>
-      <h1><b>AKAN NAMES</b></h1>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+    <div class="jumbotron">
+      <div class ="h2">
+      <h2><b>AKAN NAMES</b></h2>
+      </div>
+      <div class="x">
+    <h1>Interesting fact about Ghana.</h1>
     </div>
-    <div class="card cardSet1">
-      <P>Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their 
-        first name as a 'day name' which corresponds to the day in the week they were born. 
-        Here are Ghanian day names according to gender and day born.
+    </div>
+    </div>
+    </div>
     </div>
   </br>
+  <div class="p">
+  <p>Finding out your exact day of birth can be a bit hectic especially with the day checker formula??With the invention of this web app, count yourself lucky!!.<br>
+    This web application provides a simple user interface easy to use.This web app outputs the day of the week you were born in Akan name depending on your gender but likewise you can refer to exact day from the list below.<br>
+    Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. Here are Ghanian day names.<br>
+  </p>
+</div>
     <div class="row">
       <div class="col-md-6">
-        <div class="card cardSet2">
+        <div class="card cardw">
+          <div class="h33">
           <h3>Male</h3>
+          </div>
+          <div class="li2">
           <ul>
             <li>Sunday: Kwasi</li>
             <li>Monday: Kwadwo</li>
@@ -30,11 +47,15 @@
             <li>Friday: Kofi</li>
             <li>Saturday: Kwame</li>
           </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-6">
-        <div class="card cardSet3">
-          <h3>Female</h3>
+        <div class="card cardx">
+          <div class="h3">
+            <h3>Female</h3>
+          </div>
+          <div class="li1">
           <ul>
             <li>Sunday: Akosua</li>
             <li>Monday: Adwoa</li>
@@ -44,24 +65,33 @@
             <li>Friday: Afua</li>
             <li>Saturday: Ama</li>
           </ul>
+          </div>
         </div>
       </div>
     </div>
   </br>
-    <div class="card cardSet4">
+  <div class="container">
+    <div class="row">
+    <div class="col-md-6">
+    <form class="form-horizontal">
+    <form class="form-group">
+    <div class="card cardy">
       <p>Fill in the form below to know your Akan name according to the day of the week you were 
         born and your gender.</p>
       <form>
         <div class="form-group">
-          <label>Birthdate</label>
-          <input type="date" id="bdate" placeholder="Enter Birthdate" required></br></br>
+          <label>Birth date</label><br>
+          <input type="date" id="birthDate" placeholder="Enter date of birth" required></br></br>
         </div>
         <div class="form-group">
-          <label>Gender</label>
-          <input type="radio" name="gender" value="male" id="male1">Male
-          <input type="radio" name="gender" value="female" id="female1">Female</br></br>
+          <label>Gender</label><br>
+          <input type="radio" name="gender" value="male" id="male">Male<br><br>
+          <input type="radio" name="gender" value="female" id="female">Female</br></br>
         </div>
-        <input type="submit" value="SUBMIT" id="save" onclick="buttonClick()">
+        <div class="btn"
+        <input type="submit" id="submit" onclick="buttonClick()">SUBMIT
+        </div>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         <script src="js/scripts.js"></script>
       </form>
     </div>

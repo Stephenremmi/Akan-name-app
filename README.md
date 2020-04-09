@@ -4,7 +4,6 @@ This web app takes user's birthday and calculates the day of the week they were 
 ### Description
 - Akan names are derived from Ghananian culture.
 - It is basically a convention way of naming children according to their day of birth and also gender has a part to play in the naming.
-- This a beta version.
 
 
 ### How to test it
@@ -17,6 +16,7 @@ This web app takes user's birthday and calculates the day of the week they were 
 - Javascript
 ### Tools used
 - sweet Alert
+- google fonts
 
 ### Github pages
 (url) (https://stephenremmi.github.io/Akan-name-app/)

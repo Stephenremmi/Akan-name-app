@@ -22,7 +22,7 @@ This web app takes user's birthday and calculates the day of the week they were 
 (url) (https://stephenremmi.github.io/Akan-name-app/)
 
 **Author**
-- Stephen Remmi
+- Stephen Remmi.
 
 
 

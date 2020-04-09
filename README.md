@@ -11,12 +11,12 @@ This web app takes user's birthday and calculates the day of the week they were 
 - After entering all values click submit to find out your akan name. 
 
 ### Languages used
-- HTML5
-- CSS3
-- Javascript
+- HTML5.
+- CSS3.
+- Javascript.
 ### Tools used
-- sweet Alert
-- google fonts
+- sweet Alert.
+- google fonts.
 
 ### Github pages
 (url) (https://stephenremmi.github.io/Akan-name-app/)
